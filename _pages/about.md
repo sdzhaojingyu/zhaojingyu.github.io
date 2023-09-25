@@ -16,11 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm a second-year MSc student of Department of Computer Science and Technology at Shandong University, advised by  [Jun Ma](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren](https://pengjieren.github.io/) and [Xin Xin](https://xinxin-me.github.io/).
+Hi there! I'm a second-year MSc student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, advised by  [Jun Ma](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren](https://pengjieren.github.io/) and [Xin Xin](https://xinxin-me.github.io/).
 
 My research interest is mainly recommender system and natural language processing. 
 
-Email address: jiyuan. yang at mail.sdu.edu
+Email address: jiyuan.yang at mail.sdu.edu
 
 # 📝 Publications 
 
@@ -153,10 +153,10 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 📖 Educations
 - *2022.09 - Now*, MSc, Shandong University, Qingdao. 
-- *2018.06 - 2022.06*, Bachelor of Computer Science and Technology, Shandong University, Qingdao.  (*2018.06 - 2019.06*, Software Engineering, Shandong University, Jinan. )
+- *2018.06 - 2022.06*, Bachelor of Computer Science and Technology, Shandong University, Qingdao  (*2018.06 - 2019.06*, Software Engineering, Shandong University, Jinan. )
 
 # 💬 Invited Talks
 - None yet.
 
 # 💻 Internships
-- *2021.11 - 2022.08*, Information Retrieval Lab, Shandong University, Qingdao.
+- *2021.11 - 2022.08*, Research Assistant, Information Retrieval Lab, Shandong University.
