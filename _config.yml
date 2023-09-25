@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiyuan Yang - Homepage"
+title                    : "Jiyuan Yang"
 description              : "Msc student at Shandong University. Focus on recommender system."
 repository               : "nancheng58/nancheng58.github.io"
 google_scholar_stats_use_cdn : true
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "jiyuan-yang-055226247"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : #https://orcid.org/0000-0003-2700-5533
+  orcid            : https://orcid.org/0000-0003-2700-5533
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

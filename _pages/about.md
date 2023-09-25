@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm a second-year Msc student of Department of Computer Science and Technology at Shandong University, advised by  [Jun Ma](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren](https://pengjieren.github.io/) and [Xin Xin](https://xinxin-me.github.io/).
+Hi there! I'm a second-year MSc student of Department of Computer Science and Technology at Shandong University, advised by  [Jun Ma](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren](https://pengjieren.github.io/) and [Xin Xin](https://xinxin-me.github.io/).
 
 My research interest is mainly recommender system and natural language processing. 
 
@@ -39,7 +39,7 @@ privacy-protection mechanism to solve the problem correspondingly.  -->
 
 </div>
 
-<div class='paper-box-text' markdown="1">
+<!--div class='paper-box-text' markdown="1">
 - 
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
@@ -152,8 +152,8 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - *2016.10* First Prize in NOIP.
 
 # 📖 Educations
+- *2022.09 - Now*, MSc, Shandong University, Qingdao. 
 - *2018.06 - 2022.06*, Bachelor of Computer Science and Technology, Shandong University, Qingdao.  (*2018.06 - 2019.06*, Software Engineering, Shandong University, Jinan. )
-- *2022.09 - Now*, Master, Shandong University, Qingdao. 
 
 # 💬 Invited Talks
 - None yet.
