@@ -16,43 +16,147 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+Hi there! I'm a second-year Msc student of Department of Computer Science and Technology at Shandong University, advised by  [Jun Ma](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren](https://pengjieren.github.io/) and [Xin Xin](https://xinxin-me.github.io/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+My research interest is mainly recommender system and natural language processing. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Email address: jiyuan. yang at mail.sdu.edu
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'> -->
+
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**On the User Behavior Leakage from Recommender System Exposure - TOIS2023**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+*Xin Xin, **Jiyuan Yang (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- **Information**
+
+- Investigate the problem of user behavior leakage in recommender systems and we propose a
+privacy-protection mechanism to solve the problem correspondingly.  -->
+
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box-text' markdown="1">
+- 
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<!-- <span class='anchor' id='project-experience'></span> -->
+
+<!-- # 🛠️ Project experience -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Aizoo - A visual deep learning model building and cloud computing platform]
+
+Pengjie Ren, **Hanbing Wang**, Hongtao Tian, Guojun Yan, Chaoyu Shi, Min Wei, Jiyuan Yang, et al.
+
+[**Project information**]
+- Develop and test some operators, collect information about these operators(including formulas, backgrounds, source papers, etc) and implement a pedestrian detection task based on Aizoo. 
+</div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Electronic perpetual calendar</div><img src='images/projects/calendar.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Electronic perpetual calendar]
+
+**Hanbing Wang**
+
+[**Project information**]
+- Invented an electronic perpetual calendar from scratch. 
+- Circuit design and printing, MCU programming, application of various chips such as HC-05, DHT11, DS1302, LCD1602, MQ-2, etc. 
+- Functions include time display, solar terms display, conversion of lunar calendar and Gregorian calendar, alarm clock with customized music, smoke alarm, measurements of temperature and humidity, remote Bluetooth control. 
+</div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Driverless Assistant Aystem</div><img src='images/projects/Ascend.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A full stack driverless assistant system based on Huawei Ascend]
+
+Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
+
+[**Project information**]
+- Invented a road information detection system which can transmit the detection results to the terminal(eg. screen. a website in our project) in real time. 
+- Hardware includes the use of Raspberry Pi, Zynq, Atlas 200DK, 3D-printing, Wireless video signal transmission.
+- Software includes improving the effciency of real time object detection algorithm, design a webpage to display all the information. 
+</div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Style Transfer</div><img src='images/projects/transfer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A real time image style transfer system]
+
+Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
+
+[**Project information**]
+- Invented a real time style transfer framework which can transfer the image/video style captured by a camera and display it on a webpage. 
+- Developed a computer application which can achieve style transfer as long as you download our app. 
+- Software includes real time style transfer algorithm, webpage design, video streaming and application development. 
+</div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Equipment Management System</div><img src='images/projects/deviceManagement.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Laboratory instrument and equipment management system]
+
+**Hanbing Wang**
+
+[**Project information**]
+- Developed an online equipment Management System including React based front-end, Springboot based back-end and MySQL Database. 
+- Functions includes data addition, deletion, modification query, system login, fuzzy search, paging display, data statistics(according to price or quantity) and statistics display(line chart).
+</div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/law.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Research on copyright protection obligations and technical regulation of cloud storage service providers based on deep learning ——Take Baidu online disk as an example]
+
+**Hanbing Wang**, Cheng Zhang, Zihao Xiao, Chengzhuo Li, Hankang Sun, Xinyu Shen
+
+[**Project information**]
+- This is an interdisciplinary project between computer science and law. 
+- Knowledge includes fast video/image/text detection and comparison algorithm in various situations. 
+</div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Interdisciplinary Project</div><img src='images/projects/biology.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An online website for querying the signal pathways of hematopoietic cells in human body]
+
+**Hanbing Wang**, Xiaoyu Ji, Bingyang Cui, Baoxun Du, Zihan Liu
+
+[**Project information**]
+- This is an interdisciplinary project between computer science and biology.
+- Mapped the complete signal pathway of hematopoietic cells in human body, and made a web page for display. The webpage supports addition, deletion, modification, search of genes, fisheye magnification and freely adjusting gene arrangement. 
+</div>
+</div> -->
+
+<!-- - **Aizoo - A visual deep learning model building and cloud computing platform** I'm in charge of writing some operators and collect information about common operators.  -->
+<!-- - **Laboratory instrument and equipment management system** includes: React based front-end framework, Springboot based back-end and MySQL Database.  -->
+<!--                -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.05* Third Prize of National College Student Software Innovation Competition (top 2%).
+- *2019.10* Bronze Medal in CCF‑CCSP Final.
+- *2016.10* First Prize in NOIP.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.06 - 2022.06*, Bachelor of Computer Science and Technology, Shandong University, Qingdao.  (*2018.06 - 2019.06*, Software Engineering, Shandong University, Jinan. )
+- *2022.09 - Now*, Master, Shandong University, Qingdao. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- None yet.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.11 - 2022.08*, Information Retrieval Lab, Shandong University, Qingdao.
