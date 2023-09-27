@@ -34,7 +34,7 @@ Please feel free to contact me if you have any questions.
 
 *Xin Xin\*, **Jiyuan Yang\* (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
-**基于自监督的预训练在推荐系统中的研究综述 - CCIR2023** \| [![](https://img.shields.io/github/stars/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
+**基于自监督的预训练在推荐系统中的研究综述 - CCIR 2023** \| [![](https://img.shields.io/github/stars/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
 
 ***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
 
