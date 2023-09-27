@@ -28,25 +28,13 @@ Email address: jiyuan.yang at mail.sdu.edu
 
 <div class='paper-box-text' markdown="1">
 
-**[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS2023 (CCF-A)** \| [![](https://img.shields.io/github/stars/nancheng58/https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
+**[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS2023 (CCF-A)** \| [![](https://img.shields.io/github/stars/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
 
-*Xin Xin, **Jiyuan Yang (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
+*Xin Xin\*, **Jiyuan Yang\* (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
-**基于自监督的预训练在推荐系统中的研究综述 - CCIR2023** \| [![](https://img.shields.io/github/stars/nancheng58/https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
+**基于自监督的预训练在推荐系统中的研究综述 - CCIR2023** \| [![](https://img.shields.io/github/stars/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
 
-***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
-<!-- **Information**
-
-- Investigate the problem of user behavior leakage in recommender systems and we propose a
-privacy-protection mechanism to solve the problem correspondingly.  -->
-
-</div>
-
-<!--div class='paper-box-text' markdown="1">
-- 
-
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+* **Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
 
 <!-- <span class='anchor' id='project-experience'></span> -->
 
