@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm a second-year MSc student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, advised by  [Jun Ma](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren](https://pengjieren.github.io/) and [Xin Xin](https://xinxin-me.github.io/).
+Hi there! I'm a second-year MSc student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, advised by  [Jun Ma (马军)](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren (任鹏杰)](https://pengjieren.github.io/) and [Xin Xin (辛鑫)](https://xinxin-me.github.io/).
 
 My research interest is mainly recommender system and natural language processing. 
 
@@ -28,10 +28,13 @@ Email address: jiyuan.yang at mail.sdu.edu
 
 <div class='paper-box-text' markdown="1">
 
-**On the User Behavior Leakage from Recommender System Exposure - TOIS2023**
+**[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS2023 (CCF-A)** \| [![](https://img.shields.io/github/stars/nancheng58/https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
 
 *Xin Xin, **Jiyuan Yang (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
+**基于自监督的预训练在推荐系统中的研究综述 - CCIR2023** \| [![](https://img.shields.io/github/stars/nancheng58/https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
+
+***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
 <!-- **Information**
 
 - Investigate the problem of user behavior leakage in recommender systems and we propose a
