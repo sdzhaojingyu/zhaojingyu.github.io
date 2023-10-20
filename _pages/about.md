@@ -30,15 +30,15 @@ Please feel free to contact me if you have any questions.
 
 <div class='paper-box-text' markdown="1">
 
-**[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS 2023** \| [![](https://img.shields.io/github/stars/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
+[1] **[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS 2023** \| [![](https://img.shields.io/github/stars/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
 
 *Xin Xin\*, **Jiyuan Yang\* (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
-**基于自监督的预训练在推荐系统中的研究综述 - CCIR 2023** \| [![](https://img.shields.io/github/stars/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
+[2] **基于自监督的预训练在推荐系统中的研究综述 - CCIR 2023** \| [![](https://img.shields.io/github/stars/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
 
 ***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
 
-**Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure - WSDM 2024**
+[3] **Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure - WSDM 2024**
 
 ***Jiyuan Yang**, Yue Ding, Yidan Wang, Pengjie Ren, Zhumin Chen, Fei Cai, Rui Zhang, Jun Ma, Zhaochun Ren, Xin Xin*
 <!-- <span class='anchor' id='project-experience'></span> -->
