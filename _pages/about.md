@@ -38,6 +38,9 @@ Please feel free to contact me if you have any questions.
 
 ***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
 
+**Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure - WSDM 2024**
+
+***Jiyuan Yang**, Yue Ding, Yidan Wang, Pengjie Ren, Zhumin Chen, Fei Cai, Rui Zhang, Jun Ma, Zhaochun Ren, Xin Xin*
 <!-- <span class='anchor' id='project-experience'></span> -->
 
 <!-- # 🛠️ Project experience -->
@@ -140,6 +143,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 <!--                -->
 
 # 🎖 Honors and Awards
+- *2023.10* Dean Scholarship.
 - *2021.05* Third Prize of National College Student Software Innovation Competition (top 2%).
 - *2019.10* Bronze Medal in CCF‑CCSP Final.
 - *2016.10* First Prize in NOIP.
