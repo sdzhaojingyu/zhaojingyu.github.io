@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm a second-year MSc student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, advised by  [Jun Ma (马军)](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren (任鹏杰)](https://pengjieren.github.io/) and [Xin Xin (辛鑫)](https://xinxin-me.github.io/).
+Hi there! I'm a second-year MSc student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, advised by  Prof. [Jun Ma (马军)](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren (任鹏杰)](https://pengjieren.github.io/) and [Xin Xin (辛鑫)](https://xinxin-me.github.io/).
 
 My research interest is mainly recommender system and natural language processing. 
 
@@ -150,7 +150,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 📖 Educations
 - *2022.09 - Now*, MSc, Shandong University, Qingdao. 
-- *2018.09 - 2022.06*, Bachelor of Computer Science and Technology, Shandong University, Qingdao  (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan. ).
+- *2018.09 - 2022.06*, Bachelor, Shandong University, Qingdao  (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan. ).
 
 
 # 💻 Internships
@@ -158,4 +158,4 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 💬 Others
 - Teaching Assistant: Machine Learning course (2023 Fall, 2023 Spring, 2022 Fall, 2022 Spring),  Software Engineering course (2023 Spring).
-- Reviewer: Information Processing \& Management (IP&M).
+- Reviewer: Information Processing & Management (IP&M).
