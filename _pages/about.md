@@ -150,11 +150,11 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 📖 Educations
 - *2022.09 - Now*, MSc, Shandong University, Qingdao. 
-- *2018.09 - 2022.06*, Bachelor, Shandong University, Qingdao  (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan. ).
+- *2018.09 - 2022.06*, Bachelor, Shandong University, Qingdao  (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan).
 
 
 # 💻 Internships
-- *2021.11 - 2022.08*, Research Assistant, Information Retrieval Lab, Shandong University.
+- *2021.10 - 2022.08*, Research Assistant, Information Retrieval Lab, Shandong University.
 
 # 💬 Others
 - Teaching Assistant: Machine Learning course (2023 Fall, 2023 Spring, 2022 Fall, 2022 Spring),  Software Engineering course (2023 Spring).
