@@ -143,10 +143,12 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 <!--                -->
 
 # 🎖 Honors and Awards
-- *2023.10* Dean Scholarship.
+- *2023.10* Dean's Award, School of Computer Science and Technology at Shandong University.
+- *2023.10* First-class Academic Scholarship, Shandong University.
 - *2021.05* Third Prize of National College Student Software Innovation Competition (top 2%).
-- *2019.10* Bronze Medal in CCF‑CCSP Final.
-- *2016.10* First Prize in NOIP.
+- *2019.10* Bronze Medal in CCF‑CCSP Final, China Computer Federation.
+- *2019.06* Reasearch and Innovation Scholarship, Shandong University.
+- *2016.10* First Prize in NOIP, China Computer Federation.
 
 # 📖 Educations
 - *2022.09 - Now*, MSc, Shandong University, Qingdao. 
