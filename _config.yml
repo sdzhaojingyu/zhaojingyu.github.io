@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiyuan Yang (杨纪元)"
+  name             : "Jiyuan Yang \n (杨纪元)"
   avatar           : "images/android-chrome-480x480.jpg"
   bio              : "Shandong University"
   location         : "Qingdao, China"
