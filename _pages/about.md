@@ -147,7 +147,7 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 - *2023.10* First-class Academic Scholarship, Shandong University.
 - *2021.05* Third Prize of National College Student Software Innovation Competition (top 2%).
 - *2019.10* Bronze Medal in CCF‑CCSP Final, China Computer Federation.
-- *2019.06* Reasearch and Innovation Scholarship, Shandong University.
+- *2019.06* Research and Innovation Scholarship, Shandong University.
 - *2016.10* First Prize in NOIP, China Computer Federation.
 
 # 📖 Educations
