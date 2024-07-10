@@ -38,7 +38,7 @@ Please feel free to contact me if you have any questions.
 
 ***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
 
-[3] **[Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure](https://arxiv.org/abs/2312.07036) - WSDM 2024 (CCF B, **Best paper honorable mention**)** \| [![](https://img.shields.io/github/stars/nancheng58/DebiasedSR_DRO?style=social&label=Code+Stars)](https://github.com/nancheng58/DebiasedSR_DRO)
+[3] **[Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure](https://arxiv.org/abs/2312.07036) - WSDM 2024 (CCF B, Best paper honorable mention)** \| [![](https://img.shields.io/github/stars/nancheng58/DebiasedSR_DRO?style=social&label=Code+Stars)](https://github.com/nancheng58/DebiasedSR_DRO)
 
 ***Jiyuan Yang**, Yue Ding, Yidan Wang, Pengjie Ren, Zhumin Chen, Fei Cai, Jun Ma, Rui Zhang, Zhaochun Ren, Xin Xin*
 
