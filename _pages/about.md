@@ -24,7 +24,7 @@ Email address: jiyuan.yang at mail.sdu.edu.cn
 
 Please feel free to contact me if you have any questions.
 
-# 📝 Publications 
+# 📝 Papers
 
 <!-- <div class='paper-box'> -->
 
@@ -38,9 +38,18 @@ Please feel free to contact me if you have any questions.
 
 ***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
 
-[3] **[Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure](https://arxiv.org/abs/2312.07036) - WSDM 2024 (CCF B, <span style="color:red"> **Best paper honorable mention**)** \| [![](https://img.shields.io/github/stars/nancheng58/DebiasedSR_DRO?style=social&label=Code+Stars)](https://github.com/nancheng58/DebiasedSR_DRO)
+[3] **[Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure](https://arxiv.org/abs/2312.07036) - WSDM 2024 (CCF B, **Best paper honorable mention**)** \| [![](https://img.shields.io/github/stars/nancheng58/DebiasedSR_DRO?style=social&label=Code+Stars)](https://github.com/nancheng58/DebiasedSR_DRO)
 
 ***Jiyuan Yang**, Yue Ding, Yidan Wang, Pengjie Ren, Zhumin Chen, Fei Cai, Jun Ma, Rui Zhang, Zhaochun Ren, Xin Xin*
+
+[4] **[Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation
+](https://arxiv.org/pdf/2403.16371) - preprint** \| [![](https://img.shields.io/github/stars/nancheng58/RecMamba?style=social&label=Code+Stars)](https://github.com/nancheng58/RecMamba)
+
+***Jiyuan Yang**, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
+
+[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.16371) - preprint** 
+
+*Yidan Wang, Zhaochun Ren, Weiwei Sun, **Jiyuan Yang**, Zhixiang Liang, Xin Chen, Ruobing Xie, Su Yan, Xu Zhang, Pengjie Ren, Zhumin Chen, Xin Xin*
 <!-- <span class='anchor' id='project-experience'></span> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
@@ -137,25 +146,29 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 </div> -->
 
 <!-- - **Aizoo - A visual deep learning model building and cloud computing platform** I'm in charge of writing some operators and collect information about common operators.  -->
+
 <!-- - **Laboratory instrument and equipment management system** includes: React based front-end framework, Springboot based back-end and MySQL Database.  -->
+
 <!--                -->
 
 # 🎖 Honors and Awards
+
+- *2024.2* **WSDM 2024 Best paper honorable mention award**.
 - *2023.10* Dean's Award, School of Computer Science and Technology at Shandong University.
-- *2023.10* First-class Academic Scholarship, Shandong University.
 - *2021.05* Third Prize of National College Student Software Innovation Competition (top 2%).
 - *2019.10* Bronze Medal in CCF‑CCSP Final, China Computer Federation.
-- *2019.06* Research and Innovation Scholarship, Shandong University.
 - *2016.10* First Prize in NOIP, China Computer Federation.
 
 # 📖 Educations
+
 - *2022.09 - Now*, MSc, Shandong University, Qingdao. 
 - *2018.09 - 2022.06*, Bachelor, Shandong University, Qingdao  (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan).
 
-
 # 💻 Internships
+
 - *2021.10 - 2022.08*, Research Assistant, Information Retrieval Lab, Shandong University.
 
 # 💬 Others
+
 - Teaching Assistant: Machine Learning course (2023 Fall, 2023 Spring, 2022 Fall, 2022 Spring),  Software Engineering course (2023 Spring).
-- Academic Service: Information Processing & Management (IP&M), Program Committee Member of SIGIR 2024.
+- Academic Service: Reviewer of Information Processing & Management (IP&M), Program Committee Member of SIGIR 2024.
