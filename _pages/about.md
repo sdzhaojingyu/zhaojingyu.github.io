@@ -30,14 +30,13 @@ Please feel free to contact me if you have any questions.
 
 <div class='paper-box-text' markdown="1">
 [1] **[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS 2023 (CCF A)** \| [![](https://img.shields.io/github/stars/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
-
 *Xin Xin\*, **Jiyuan Yang\* (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
 [2] **基于自监督的预训练在推荐系统中的研究综述 - CCIR 2023** \| [![](https://img.shields.io/github/stars/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
 
 ***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
 
-[3] **[Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure](https://arxiv.org/abs/2312.07036) - WSDM 2024 (CCF B, Best paper honorable mention)** \| [![](https://img.shields.io/github/stars/nancheng58/DebiasedSR_DRO?style=social&label=Code+Stars)](https://github.com/nancheng58/DebiasedSR_DRO)
+[3] **[Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure](https://arxiv.org/pdf/2312.07036) - WSDM 2024 (CCF B, Best paper honorable mention)** \| [![](https://img.shields.io/github/stars/nancheng58/DebiasedSR_DRO?style=social&label=Code+Stars)](https://github.com/nancheng58/DebiasedSR_DRO)
 
 ***Jiyuan Yang**, Yue Ding, Yidan Wang, Pengjie Ren, Zhumin Chen, Fei Cai, Jun Ma, Rui Zhang, Zhaochun Ren, Xin Xin*
 
@@ -46,7 +45,7 @@ Please feel free to contact me if you have any questions.
 
 ***Jiyuan Yang**, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
 
-[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.16371) -  CIKM 2024 (CCF B)** 
+[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.18480) -  CIKM 2024 (CCF B)** 
 
 *Yidan Wang, Zhaochun Ren, Weiwei Sun, **Jiyuan Yang**, Zhixiang Liang, Xin Chen, Ruobing Xie, Su Yan, Xu Zhang, Pengjie Ren, Zhumin Chen, Xin Xin*
 <!-- <span class='anchor' id='project-experience'></span> -->
