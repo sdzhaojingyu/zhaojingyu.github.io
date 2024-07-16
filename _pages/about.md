@@ -29,7 +29,6 @@ Please feel free to contact me if you have any questions.
 <!-- <div class='paper-box'> -->
 
 <div class='paper-box-text' markdown="1">
-
 [1] **[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS 2023 (CCF A)** \| [![](https://img.shields.io/github/stars/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
 
 *Xin Xin\*, **Jiyuan Yang\* (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
@@ -47,7 +46,7 @@ Please feel free to contact me if you have any questions.
 
 ***Jiyuan Yang**, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
 
-[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.16371) - preprint** 
+[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.16371) -  CIKM 2024 (CCF B)** ** 
 
 *Yidan Wang, Zhaochun Ren, Weiwei Sun, **Jiyuan Yang**, Zhixiang Liang, Xin Chen, Ruobing Xie, Su Yan, Xu Zhang, Pengjie Ren, Zhumin Chen, Xin Xin*
 <!-- <span class='anchor' id='project-experience'></span> -->
