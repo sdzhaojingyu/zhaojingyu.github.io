@@ -46,14 +46,13 @@ Please feel free to contact me if you have any questions.
 
 ***Jiyuan Yang**, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
 
-[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.16371) -  CIKM 2024 (CCF B)** ** 
+[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.16371) -  CIKM 2024 (CCF B)** 
 
 *Yidan Wang, Zhaochun Ren, Weiwei Sun, **Jiyuan Yang**, Zhixiang Liang, Xin Chen, Ruobing Xie, Su Yan, Xu Zhang, Pengjie Ren, Zhumin Chen, Xin Xin*
 <!-- <span class='anchor' id='project-experience'></span> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Aizoo - A visual deep learning model building and cloud computing platform]
 
 Pengjie Ren, **Hanbing Wang**, Hongtao Tian, Guojun Yan, Chaoyu Shi, Min Wei, Jiyuan Yang, et al.
