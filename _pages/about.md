@@ -16,9 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm a second-year MSc student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, advised by  Prof. [Jun Ma (马军)](https://ir.sdu.edu.cn/~junma/~junma_en.htm), [Pengjie Ren (任鹏杰)](https://pengjieren.github.io/) and [Xin Xin (辛鑫)](https://xinxin-me.github.io/).
-
-My research interest is mainly recommender system and natural language processing. 
+Hi there! I'm a PhD student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, supervised by Prof. [Jun Ma](https://ir.sdu.edu.cn/~junma/~junma_en.htm), Prof. [Pengjie Ren](https://pengjieren.github.io/) and Prof. [Xin Xin](https://xinxin-me.github.io/). I also work closely with Prof. [Zhaochun Ren](https://renzhaochun.github.io/) and Prof. [Mengqi Zhang](https://zm7.github.io/).
+My research interest is mainly recommender system and large language model. 
 
 Email address: jiyuan.yang at mail.sdu.edu.cn
 
@@ -29,6 +28,7 @@ Please feel free to contact me if you have any questions.
 <!-- <div class='paper-box'> -->
 
 <div class='paper-box-text' markdown="1">
+
 [1] **[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS 2023 (CCF A)** \| [![](https://img.shields.io/github/stars/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
 *Xin Xin\*, **Jiyuan Yang\* (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
 
@@ -150,16 +150,18 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 # 🎖 Honors and Awards
 
-- *2024.2* **WSDM 2024 Best paper honorable mention award**.
+- *2024.02* **WSDM 2024 Best paper honorable mention award** (3/112).
 - *2023.10* Dean's Award, School of Computer Science and Technology at Shandong University.
 - *2021.05* Third Prize of National College Student Software Innovation Competition (top 2%).
-- *2019.10* Bronze Medal in CCF‑CCSP Final, China Computer Federation.
 - *2016.10* First Prize in NOIP, China Computer Federation.
+
+<!-- - *2019.10* Bronze Medal in CCF‑CCSP Final, China Computer Federation. -->
 
 # 📖 Educations
 
-- *2022.09 - Now*, MSc, Shandong University, Qingdao. 
-- *2018.09 - 2022.06*, Bachelor, Shandong University, Qingdao  (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan).
+- *2024.09 - Now*, PhD, Shandong University, Qingdao. (Co-Supervised by Prof. Pengjie Ren and Prof. Xin Xin.)
+- *2022.09 - 2024.08*, MSc, Shandong University, Qingdao. (Supervised by Prof. Jun Ma, co-advised by Prof. Pengjie Ren and Prof. Xin Xin.)
+- *2018.09 - 2022.06*, Bachelor, Shandong University, Qingdao. (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan).
 
 # 💻 Internships
 
