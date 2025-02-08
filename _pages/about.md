@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 Hi there! I'm a PhD candidate of [AI Engine lab](https://www.ai-engine-lab.com/) at Renmin University of China, supervised by Prof. [Xu Chen](https://gsai.ruc.edu.cn/chenxu).I'm also a Research Assistant of IRlab Shandong University with the advisor of Prof. [Pengjie Ren](https://pengjieren.github.io/). I also work closely with Prof. [Zhaochun Ren](https://renzhaochun.github.io/), Prof. [Mengqi Zhang](https://zm7.github.io/) and Prof. [Xin Xin](https://xinxin-me.github.io/).
-My research interest is mainly Recommender System , LLM agent and AI4SS. 
+My research interest is mainly Recommender System. 
 
-Email address: liyuanzi at mail.sdu.edu.cn
+Email address: jingyu.zhao at mail.sdu.edu.cn
 
 Please feel free to contact me if you have any questions.
 
