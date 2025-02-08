@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm a PhD candidate of [AI Engine lab](https://www.ai-engine-lab.com/) at Renmin University of China, supervised by Prof. [Xu Chen](https://gsai.ruc.edu.cn/chenxu).I'm also a Research Assistant of IRlab Shandong University with the advisor of Prof. [Pengjie Ren](https://pengjieren.github.io/). I also work closely with Prof. [Zhaochun Ren](https://renzhaochun.github.io/), Prof. [Mengqi Zhang](https://zm7.github.io/) and Prof. [Xin Xin](https://xinxin-me.github.io/).
-My research interest is mainly Recommender System. 
+Hi there! I'm a master's student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, supervised by Prof. [Pengjie Ren](https://pengjieren.github.io/) . I also work closely with Prof. [Zhaochun Ren](https://renzhaochun.github.io/) , Prof. [Xin Xin](https://xinxin-me.github.io/) and Prof. [Mengqi Zhang](https://zm7.github.io/).
+My research interest is mainly recommender system and large language model. 
 
 Email address: jingyu.zhao at mail.sdu.edu.cn
 
