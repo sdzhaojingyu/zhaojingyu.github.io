@@ -16,10 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! I'm a PhD student of [Information Retrieval Lab](https://ir.sdu.edu.cn/index_en.htm) at Shandong University, supervised by Prof. [Jun Ma](https://ir.sdu.edu.cn/~junma/~junma_en.htm), Prof. [Pengjie Ren](https://pengjieren.github.io/) and Prof. [Xin Xin](https://xinxin-me.github.io/). I also work closely with Prof. [Zhaochun Ren](https://renzhaochun.github.io/) and Prof. [Mengqi Zhang](https://zm7.github.io/).
-My research interest is mainly recommender system and large language model. 
+Hi there! I'm a PhD candidate of [AI Engine lab](https://www.ai-engine-lab.com/) at Renmin University of China, supervised by Prof. [Xu Chen](https://gsai.ruc.edu.cn/chenxu).I'm also a Research Assistant of IRlab Shandong University with the advisor of Prof. [Pengjie Ren](https://pengjieren.github.io/). I also work closely with Prof. [Zhaochun Ren](https://renzhaochun.github.io/), Prof. [Mengqi Zhang](https://zm7.github.io/) and Prof. [Xin Xin](https://xinxin-me.github.io/).
+My research interest is mainly Recommender System , LLM agent and AI4SS. 
 
-Email address: jiyuan.yang at mail.sdu.edu.cn
+Email address: liyuanzi at mail.sdu.edu.cn
 
 Please feel free to contact me if you have any questions.
 
@@ -29,25 +29,10 @@ Please feel free to contact me if you have any questions.
 
 <div class='paper-box-text' markdown="1">
 
-[1] **[On the User Behavior Leakage from Recommender System Exposure](https://dl.acm.org/doi/full/10.1145/3568954) - TOIS 2023 (CCF A)** \| [![](https://img.shields.io/github/stars/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure?style=social&label=Code+Stars)](https://github.com/nancheng58/On-the-User-Behavior-Leakage-from-Recommender-System-Exposure)
-*Xin Xin\*, **Jiyuan Yang\* (co-first author)**, Hanbing Wang, Jun Ma, Pengjie Ren, Hengliang Luo, Xinlei Shi, Zhumin Chen, Zhaochun Ren*
+[1] **[Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation
+](https://arxiv.org/pdf/2403.16371) - CORR 2024** \
+*Jiyuan Yang, **Yuanzi Li**, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
 
-[2] **基于自监督的预训练在推荐系统中的研究综述 - CCIR 2023** \| [![](https://img.shields.io/github/stars/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems?style=social&label=Code+Stars)](https://github.com/nancheng58/Self-supervised-learning-for-Sequential-Recommender-Systems)
-
-***Jiyuan Yang**, Muyang Ma, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Xin Xin, Fei Cai, Jun Ma*
-
-[3] **[Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure](https://arxiv.org/pdf/2312.07036) - WSDM 2024 (CCF B, Best paper honorable mention)** \| [![](https://img.shields.io/github/stars/nancheng58/DebiasedSR_DRO?style=social&label=Code+Stars)](https://github.com/nancheng58/DebiasedSR_DRO)
-
-***Jiyuan Yang**, Yue Ding, Yidan Wang, Pengjie Ren, Zhumin Chen, Fei Cai, Jun Ma, Rui Zhang, Zhaochun Ren, Xin Xin*
-
-[4] **[Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation
-](https://arxiv.org/pdf/2403.16371) - preprint** \| [![](https://img.shields.io/github/stars/nancheng58/RecMamba?style=social&label=Code+Stars)](https://github.com/nancheng58/RecMamba)
-
-***Jiyuan Yang**, Yuanzi Li, Jingyu Zhao, Hanbing Wang, Muyang Ma, Jun Ma, Zhaochun Ren, Mengqi Zhang, Xin Xin, Zhumin Chen, Pengjie Ren*
-
-[5] **[Enhanced generative recommendation via content and collaboration integration](https://arxiv.org/pdf/2403.18480) -  CIKM 2024 (CCF B)** 
-
-*Yidan Wang, Zhaochun Ren, Weiwei Sun, **Jiyuan Yang**, Zhixiang Liang, Xin Chen, Ruobing Xie, Su Yan, Xu Zhang, Pengjie Ren, Zhumin Chen, Xin Xin*
 <!-- <span class='anchor' id='project-experience'></span> -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aizoo</div><img src='images/projects/aizoo.png' alt="sym" width="100%"></div></div>
@@ -148,26 +133,19 @@ Haiqiao Hong, **Hanbing Wang**, Qitao Zhao
 
 <!--                -->
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards -->
 
-- *2024.02* **WSDM 2024 Best paper honorable mention award** (3/112).
+<!-- - *2024.02* **WSDM 2024 Best paper honorable mention award** (3/112).
 - *2023.10* Dean's Award, School of Computer Science and Technology at Shandong University.
 - *2021.05* Third Prize of National College Student Software Innovation Competition (top 2%).
-- *2016.10* First Prize in NOIP, China Computer Federation.
-
-<!-- - *2019.10* Bronze Medal in CCF‑CCSP Final, China Computer Federation. -->
+- *2016.10* First Prize in NOIP, China Computer Federation. -->
 
 # 📖 Educations
 
-- *2024.09 - Now*, PhD, Shandong University, Qingdao. (Co-Supervised by Prof. Pengjie Ren and Prof. Xin Xin.)
-- *2022.09 - 2024.08*, MSc, Shandong University, Qingdao. (Supervised by Prof. Jun Ma, co-advised by Prof. Pengjie Ren and Prof. Xin Xin.)
-- *2018.09 - 2022.06*, Bachelor, Shandong University, Qingdao. (*2018.09 - 2019.07*, Software Engineering, Shandong University, Jinan).
+- *2021.09 - 2025.06*, Bachelor, Shandong University, Qingdao.
 
 # 💻 Internships
 
-- *2021.10 - 2022.08*, Research Assistant, Information Retrieval Lab, Shandong University.
+- *2022.10 - 2025.06*, Research Assistant, Information Retrieval Lab, Shandong University.
 
-# 💬 Others
 
-- Teaching Assistant: Machine Learning course (2023 Fall, 2023 Spring, 2022 Fall, 2022 Spring),  Software Engineering course (2023 Spring).
-- Academic Service: Reviewer of Information Processing & Management (IP&M), Program Committee Member of SIGIR 2024.
